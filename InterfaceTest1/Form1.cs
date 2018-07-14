@@ -17,25 +17,28 @@ namespace InterfaceTest1
             InitializeComponent();
         }
 
-        interface IList
+        interface IList<T>
         {
-            string Text { get; set; }
+            T Id { get; }
         }
 
-        class MyList : IList
+        class MyList<T> : IList<T>
         {
-            public string Text { get; set; }
+            public T _id;
+            public MyList(T id)
+            {
+                _id = id;
+            }
+            public T Id { get { return _id; } }
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            IList l = new MyList();
-            l.Text = "Запись 1";
-            textBox1.Text += l.Text + "\r\n";
+            IList<int> l = new MyList<int>(123);
+            textBox1.Text += l.Id + "\r\n";
 
-            MyList ml = new MyList();
-            ml.Text = "Запись 2";
-            textBox1.Text += ml.Text;
+            IList<string> ml = new MyList<string>("456");
+            textBox1.Text += ml.Id;
         }
     }
 }
