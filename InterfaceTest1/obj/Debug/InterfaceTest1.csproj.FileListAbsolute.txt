@@ -1,0 +1,10 @@
+C:\Users\zibo9\Google Drive\VSProjects\InterfaceTest1\InterfaceTest1\bin\Debug\InterfaceTest1.exe.config
+C:\Users\zibo9\Google Drive\VSProjects\InterfaceTest1\InterfaceTest1\bin\Debug\InterfaceTest1.exe
+C:\Users\zibo9\Google Drive\VSProjects\InterfaceTest1\InterfaceTest1\bin\Debug\InterfaceTest1.pdb
+C:\Users\zibo9\Google Drive\VSProjects\InterfaceTest1\InterfaceTest1\obj\Debug\InterfaceTest1.csprojAssemblyReference.cache
+C:\Users\zibo9\Google Drive\VSProjects\InterfaceTest1\InterfaceTest1\obj\Debug\InterfaceTest1.Form1.resources
+C:\Users\zibo9\Google Drive\VSProjects\InterfaceTest1\InterfaceTest1\obj\Debug\InterfaceTest1.Properties.Resources.resources
+C:\Users\zibo9\Google Drive\VSProjects\InterfaceTest1\InterfaceTest1\obj\Debug\InterfaceTest1.csproj.GenerateResource.cache
+C:\Users\zibo9\Google Drive\VSProjects\InterfaceTest1\InterfaceTest1\obj\Debug\InterfaceTest1.csproj.CoreCompileInputs.cache
+C:\Users\zibo9\Google Drive\VSProjects\InterfaceTest1\InterfaceTest1\obj\Debug\InterfaceTest1.exe
+C:\Users\zibo9\Google Drive\VSProjects\InterfaceTest1\InterfaceTest1\obj\Debug\InterfaceTest1.pdb
